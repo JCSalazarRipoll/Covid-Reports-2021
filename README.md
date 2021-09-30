@@ -1,4 +1,4 @@
-# Covid-Reports-2021
+# Covid-Reporte-2021
 
 Este es un análisis realizado de los reportes por Covid desde marzo 2020 hasta septiembre 2021.
 
